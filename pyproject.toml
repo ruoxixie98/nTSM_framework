@@ -8,7 +8,6 @@ version = "0.1.0.dev0"
 description = "neuroanatomical topology-informed synergy mapping"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { file = "LICENSE" }
 keywords = ["fMRI", "neuroimaging"]
 classifiers = [
   "Intended Audience :: Science/Research",

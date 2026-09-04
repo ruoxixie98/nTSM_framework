@@ -75,7 +75,3 @@ Citation information will be added when the associated manuscript becomes public
 ## Research-use notice
 
 For research use only; not for clinical use.
-
-## License
-
-See [LICENSE](LICENSE).
